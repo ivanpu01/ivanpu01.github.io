@@ -98,6 +98,3 @@
 <footer style="text-align:center; margin-top:20px;">
     <p>&copy; 2025 Путятинский. Все права защищены.</p>
 </footer>
-
-</body>
-</html>
