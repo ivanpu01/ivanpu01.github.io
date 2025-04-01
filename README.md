@@ -11,7 +11,7 @@
 
 [Мой сайт](https://ivanpu01.github.io)  
 
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -68,8 +68,7 @@
     <p>Email: puivan01@gmail.com</p>
     <p>Телефон: +7 (996) 103-38-53</p>
     <p>GitHub: <a href="https://github.com/ivanpu01/" target="_blank">github.com/ivanpu01</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/ivanpu01/ivanpu01.github.io"" target="_blank">linkedin.com/in/ivanpu01/ivanpu01.github.io"</a></p>
-</section>
+
 
 <section class="skills">
     <h2>Навыки</h2>
